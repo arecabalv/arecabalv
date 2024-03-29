@@ -1,4 +1,22 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Álvaro</h2>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/arecabalv/arecabalv/assets/74212861/96d6d111-22c2-43e8-98d6-be5dca191653" />
+   <h3 align="center">Hey there! I'm Álvaro</h3>
+</p>
+
+<p align="center">
+    <span style="width: 8px;"> </span>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-recabal-6b80a9b6" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="" height="23px" width="28px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://instagram.com/alvarorecabal" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="23px" width="23px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://twitter.com/alvarorecabal" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="23px" width="28px" />
+  </a>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
